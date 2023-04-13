@@ -1,8 +1,8 @@
 {
   "name": "18-forkify",
   "version": "1.0.0",
-  "description": "",
-  "default": "index.js",
+  "description": "Recipe application",
+  "default": "index.html",
   "scripts": {
     "start": "parcel index.html",
     "build": "parcel build index.html --dist-dir ./dist"
